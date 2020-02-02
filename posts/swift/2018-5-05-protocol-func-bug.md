@@ -4,6 +4,8 @@ title: Protocol Extension - function's implementation cannot be overridden by a 
 description: Protocol Extension - function's implementation cannot be overridden by a subclass
 category: swift
 tags: [swift]
+date: "2018-05-05"
+path: swift/2018-5-05-protocol-func-bug
 ---
 
 [source](https://bugs.swift.org/browse/SR-103)

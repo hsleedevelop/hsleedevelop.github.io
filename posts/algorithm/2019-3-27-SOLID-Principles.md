@@ -5,6 +5,7 @@ description: Programming Principles
 category: algorithm
 tags: [algorithm, solid]
 date: "2018-03-27"
+path: "algorithm/2019-3-27-SOLID-Principles"
 ---
 
 **SOLID - Programming Principles**

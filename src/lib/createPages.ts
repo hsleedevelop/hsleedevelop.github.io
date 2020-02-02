@@ -24,6 +24,7 @@ export async function createPages({ actions, graphql }: CreatePagesArgs) {
 
     data.allMarkdownRemark.edges.forEach(({ node }: any) => {
         createPage({
+            //path: node.frontmatter.path,
             path: node.frontmatter.title,
             context: {
                 html: node.html,

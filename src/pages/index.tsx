@@ -15,7 +15,7 @@ const LatestPostListQuery = graphql`
                         frontmatter {
                             title
                             path
-                            date(formatString: "YYYY-MM-DD HH:mm:ss")
+                            date(formatString: "MMM DD, YYYY")
                         }
                         id
                     }

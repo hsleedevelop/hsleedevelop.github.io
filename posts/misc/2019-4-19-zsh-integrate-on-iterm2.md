@@ -5,7 +5,8 @@ description: Iterm2에 zsh을 통합하는 방법
 category: misc
 tags: [misc, ai]
 lang: ko
-date: "2019-04-19"
+date: 2019-04-18
+path: "2018-5-05-protocol-func-bug"
 ---
 
 1. install Iterm2
