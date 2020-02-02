@@ -4,6 +4,7 @@ title: Sonar scanner for Bitbucket pipeline
 description: Sonar scanner for Bitbucket pipeline
 category: misc
 tags: [misc]
+date: "2017-12-29"
 ---
 
 This is a sample build configuration for PHP. (mod by Theerayooth Kosin)

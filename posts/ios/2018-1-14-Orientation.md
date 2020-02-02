@@ -4,6 +4,7 @@ title: Change orientation a specific viewController
 description: Change orientation a specific viewController
 category: ios
 tags: [ios, orientation]
+date: "2018-01-14"
 ---
 
 - Set the orientation option on project settings

@@ -4,6 +4,7 @@ title: Privacy support in iOS and OS X
 description: Privacy support in iOS and OS X
 categories: ios
 tags: [ios, debug]
+date: "2018-02-08"
 ---
 
 [session_710__privacy_support_in_ios_and_os_x.pdf]({{ site.url }}/assets/pdf/session_710__privacy_support_in_ios_and_os_x)  

@@ -4,6 +4,7 @@ title: closure, cast constraint
 description: closure, cast constraint
 category: swift
 tags: [swift]
+date: "2018-04-17"
 ---
 
 You can only upcast to a parent type:

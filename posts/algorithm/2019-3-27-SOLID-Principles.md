@@ -4,6 +4,7 @@ title: SOLID - Programming Principles
 description: Programming Principles
 category: algorithm
 tags: [algorithm, solid]
+date: "2018-03-27"
 ---
 
 **SOLID - Programming Principles**

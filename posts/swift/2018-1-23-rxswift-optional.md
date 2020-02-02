@@ -4,6 +4,7 @@ title: RxSwift Code Snippet
 description: RxSwift Code Snippet
 category: swift
 tags: [swift]
+date: "2018-01-23"
 ---
 
 

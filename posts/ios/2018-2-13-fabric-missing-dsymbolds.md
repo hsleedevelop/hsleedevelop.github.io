@@ -4,6 +4,7 @@ title: Crashlytics - resolve "missing dSymbols" by build script
 description: Crashlytics - resolve "missing dSymbols" by build script
 category: ios
 tags: [ios, fabric]
+date: "2018-02-13"
 ---
 
 Add below script to script on build phases

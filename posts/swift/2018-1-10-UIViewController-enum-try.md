@@ -4,6 +4,7 @@ title: UIViewController enum samples
 description: UIViewController enum samples
 category: swift
 tags: [swift]
+date: "2018-01-10"
 ---
 
 {% highlight swift %}

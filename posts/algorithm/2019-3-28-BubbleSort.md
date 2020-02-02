@@ -4,6 +4,7 @@ title: SOLID - Programming Principles
 description: Programming Principles
 category: algorithm
 tags: [algorithm, solid]
+date: "2019-03-28"
 ---
 
 **Bubble Sort - Sort algorithm**

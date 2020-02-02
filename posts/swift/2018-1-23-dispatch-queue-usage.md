@@ -5,6 +5,7 @@ description: Async DispatchQueue Usage
 category: swift
 tags: [swift]
 lang: ko
+date: "2018-01-23"
 ---
 
 {% highlight swift %}
