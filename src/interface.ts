@@ -1,0 +1,1 @@
+import { ReplaceComponentRendererArgs } from "gatsby"
