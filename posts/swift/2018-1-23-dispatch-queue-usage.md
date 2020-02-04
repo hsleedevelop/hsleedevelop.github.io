@@ -6,6 +6,7 @@ category: swift
 tags: [swift]
 lang: ko
 date: "2018-01-23"
+path: Async DispatchQueue Usage
 ---
 
 {% highlight swift %}

@@ -5,6 +5,7 @@ description: Realm debug snippet
 category: ios
 tags: [ios, realm]
 date: "2018-02-12"
+path: Realm debug snippet
 ---
 
 realm file in simulator

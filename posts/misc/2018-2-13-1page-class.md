@@ -5,6 +5,7 @@ description: 1page class summary - 5
 category: misc
 tags: [misc, planning]
 date: "2018-02-13"
+path: 1page class summary - 5
 ---
 
 fact based = [background, factor, status]

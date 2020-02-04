@@ -5,6 +5,7 @@ description: Conditional Compilation Blocks
 category: swift
 tags: [swift]
 date: "2018-05-03"
+path: Conditional Compilation Blocks
 ---
 
 [apple-doc](https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/InteractingWithCAPIs.html#//apple_ref/doc/uid/TP40014216-CH8-ID34)

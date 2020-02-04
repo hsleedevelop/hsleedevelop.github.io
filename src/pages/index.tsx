@@ -26,23 +26,23 @@ const LatestPostListQuery = graphql`
 
 const IndexPage: React.FC = () => {
   const data = useStaticQuery<Query>(LatestPostListQuery)
-
+  
   return (
     <Layout>
       <SEO title="Home" />
       <h1>Recently Posts</h1>
-      <ul>
-        {data.allMarkdownRemark.edges.map(({ node }: any) => (
-          <li key={node.id}>
-              <h2>
+      {data.allMarkdownRemark.edges.map(({ node }: any) => (
+          <p key={node.id}>
+              <div>
+              <h2 style={{display:'inline-block'}}>
                   <Link to={node.frontmatter.path}>{node.frontmatter.title}</Link>
-              </h2>
-              <h3>{node.frontmatter.date}</h3>
+              </h2>{' - '}
+              <h4 style={{display:'inline-block'}}>{node.frontmatter.date}</h4>
+              </div>
               <p>{node.excerpt}</p>
               <hr />
-          </li>
+          </p>
         ))}
-      </ul>
     </Layout>
   )
 }

@@ -5,6 +5,7 @@ description: Debugging Tips and Tricks - WWDC16
 category: ios
 tags: [ios, debug]
 date: "2018-02-01"
+path: debug_tips_wwdc2016
 ---
 
 [debugging_tips_and_tricks.pdf]({{ site.url }}/assets/pdf/417_debugging_tips_and_tricks.pdf)  

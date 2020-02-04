@@ -1,10 +1,11 @@
 ---
 layout: post
-title: SOLID - Programming Principles
-description: Programming Principles
+title: Bubble Sort
+description: Bubble Sort
 category: algorithm
-tags: [algorithm, solid]
-date: "2019-03-28"
+tags: [algorithm, sort, bubble]
+date: 2019-03-28
+path: bubble sort
 ---
 
 **Bubble Sort - Sort algorithm**

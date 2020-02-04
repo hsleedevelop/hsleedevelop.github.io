@@ -5,6 +5,7 @@ description: XCode build settings, variables
 category: ios
 tags: [ios, xcode]
 date: "2018-02-13"
+path: XCode build settings, variables
 ---
 
 
